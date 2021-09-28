@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 3px solid #b8a661;
 }
 
 #header .profile h1 {
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #2f2d30;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
